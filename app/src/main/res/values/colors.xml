@@ -3,4 +3,15 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="gray_bg">#f4f5f6</color>
+
+    <!--  六维图  -->
+    <color name="six_dim_web_stroke">#dee1e6</color>
+    <color name="six_dim_web_fill2">#fbfbfb</color>
+    <color name="six_dim_stroke1">#da5742</color>
+    <color name="six_dim_stroke2">#687A95</color>
+    <color name="six_dim_fill1">#4cee6049</color>
+    <color name="six_dim_fill2">#340f3752</color>
+    <color name="six_dim_desc">#9499A0</color>
 </resources>
